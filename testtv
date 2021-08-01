@@ -36,3 +36,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" tvg-name="Astro Citra"  group-title="Astro",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" tvg-name="RTB"  group-title="Brunei",RTB
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w1094974781_b2736000_sleng.m3u8
