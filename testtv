@@ -1,41 +1,16 @@
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-name="TV 1"  group-title="Malaysia",TV 1
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",TV 1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="TV 2"  group-title="Malaysia",TV 2
+#EXTINF:-1 tvg-name="TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia",TV 2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" tvg-name="TV 3"  group-title="Malaysia",TV 3
+#EXTINF:-1 tvg-name="TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia",TV 3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" tvg-name="8 TV"  group-title="Malaysia",8 TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-name="Bernama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Malaysia",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/1200px-Logo_of_TV9_%28Malaysia%29.svg.png" tvg-name="9 TV"  group-title="Malaysia",9 TV
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/TVS-Logo-Square.png" tvg-name="TVS"  group-title="Malaysia",TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.techarp.com/wp-content/uploads/2021/02/NTV-7-DidikTV-KPM-change.jpg" tvg-name="Didik TV"  group-title="Malaysia",Didik TV
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-name="Astro Ria"  group-title="Astro",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" tvg-name="Astro Prima"  group-title="Astro",Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Astro",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" tvg-name="Astro Warna"  group-title="Astro",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-name="Astro Awani"  group-title="Astro",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" tvg-name="Astro Citra"  group-title="Astro",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-name="Ria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="Malaysia",Ria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
