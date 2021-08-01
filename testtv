@@ -14,3 +14,15 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/1200px-Logo_of_TV9_%28Malaysia%29.svg.png" tvg-name="TV 9"  group-title="Malaysia",TV 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-name="Astro Ria HD"  group-title="Astro",Astro Ria HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" tvg-name="Astro Prima HD"  group-title="Astro",Astro Prima HD
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" tvg-name="Astro Warna HD"  group-title="Astro",Astro Warna HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8" tvg-name="Astro Citra"  group-title="Astro",Astro Citra
+http://123.456.789
