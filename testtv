@@ -24,5 +24,5 @@ http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" tvg-name="Astro Warna HD"  group-title="Astro",Astro Warna HD
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" tvg-name="Astro Citra"  group-title="Astro",Astro Citra
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" tvg-name="Astro Citra HD"  group-title="Astro",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
