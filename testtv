@@ -1,38 +1,1786 @@
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-name="TV 1"  group-title="Malaysia",TV 1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTM3U
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" tvg-name="TV 2"  group-title="Malaysia",TV 2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="மக்கள் தொலைக்காட்சி"  group-title="LIVE | ASTRO",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8995
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" tvg-name="TV 3"  group-title="Malaysia",TV 3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Zootopia (2016)"  group-title="Animasi",Zootopia (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7329.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" tvg-name="8 TV"  group-title="Malaysia",8 TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="zero"  group-title="Bollywood",zero
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7328.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/1200px-Logo_of_TV9_%28Malaysia%29.svg.png" tvg-name="9 TV"  group-title="Malaysia",9 TV
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Zack Snyder's Justice League (2021)"  group-title="Action",Zack Snyder's Justice League (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7309.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/TVS-Logo-Square.png" tvg-name="TVS"  group-title="Malaysia",TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wyrmwood: Road of the Dead (2014)"  group-title="Horror",Wyrmwood: Road of the Dead (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/324.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.techarp.com/wp-content/uploads/2021/02/NTV-7-DidikTV-KPM-change.jpg" tvg-name="Didik TV"  group-title="Malaysia",Didik TV
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1, tvg-id="WWE.ca" tvg-logo="Logo N/A" tvg-name="WWE Network"  group-title="LIVE | SPORTS",WWE Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-name="Astro Ria"  group-title="Astro",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wreck-It Ralph (2012)"  group-title="Animasi",Wreck-It Ralph (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7327.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" tvg-name="Astro Prima"  group-title="Astro",Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="World War Z (2013)"  group-title="Action",World War Z (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7326.mp4
 
-#EXTINF:-1 tvg-id="Astro Oasis HD" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" group-title="A",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Words on Bathroom Walls (2020)"  group-title="Drama",Words on Bathroom Walls (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6656.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" tvg-name="Astro Warna"  group-title="Astro",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wonder Woman 1984 (2020)"  group-title="Action",Wonder Woman 1984 (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7305.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-name="Astro Awani"  group-title="Astro",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wonder Park (2019)"  group-title="Animasi",Wonder Park (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7325.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" tvg-name="Astro Citra"  group-title="Astro",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wolf Worrior 2"  group-title="Action",Wolf Worrior 2
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7304.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wolf Worrior 1"  group-title="Action",Wolf Worrior 1
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7303.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="WLT JADE"  group-title="LIVE | ASTRO",WLT JADE
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8836
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Whisper of the Heart (1995)"  group-title="Animasi",Whisper of the Heart (1995)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7302.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="What Happened to Mr Cha? (2021)"  group-title="Comedy",What Happened to Mr Cha? (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7301.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="What Happened to Monday (2017)"  group-title="Thriller",What Happened to Monday (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7324.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Weathering with You (2019)"  group-title="Animasi",Weathering with You (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7323.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="We Can Be Heroes (2020)"  group-title="Action",We Can Be Heroes (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7300.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Warner TV HD"  group-title="LIVE | MOVIE (subtitle)",Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+
+#EXTINF:-1, tvg-id="WarnerHD.mx" tvg-logo="Logo N/A" tvg-name="Warner TV"  group-title="LIVE | ASTRO",Warner TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Warm Bodies (2013)"  group-title="Comedy",Warm Bodies (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7322.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Warcraft (2016)"  group-title="Action",Warcraft (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7321.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Wanted (2008)"  group-title="Action",Wanted (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7320.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Vivarium (2019)"  group-title="Horror",Vivarium (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7319.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Villain (2020)"  group-title="Action",Villain (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6690.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Venom (2018)"  group-title="Action",Venom (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7318.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Veer-Zaara (2004)"  group-title="Bollywood",Veer-Zaara (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7317.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Vanguard (2020)"  group-title="Action",Vanguard (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7024.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Vaastu Shastra (2004)"  group-title="TAMIL | Malay Subtitle",Vaastu Shastra (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7316.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="V3: Samseng Jalanan (2010)"  group-title="Filem Melayu",V3: Samseng Jalanan (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7017.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UTV Movies International"  group-title="LIVE | ASTRO",UTV Movies International
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6847
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="USA: STARZ Kids & Family FHD"  group-title="LIVE | Kids Channel",USA: STARZ Kids & Family FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7204
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Upin & Ipin: Keris Siamang Tunggal (2019)"  group-title="Animasi",Upin & Ipin: Keris Siamang Tunggal (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7141.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Up (2009)"  group-title="Animasi",Up (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/428.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Universal Kids FHD"  group-title="LIVE | Kids Channel",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7205
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Unhinged (2020)"  group-title="Action",Unhinged (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/346.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Underwater (2020)"  group-title="Action",Underwater (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7315.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Racing"  group-title="LIVE | SPORTS",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7114
+
+#EXTINF:-1, tvg-id="SkySpPL.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Premier League"  group-title="LIVE | SPORTS",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6621
+
+#EXTINF:-1, tvg-id="SkySportsNews.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports News"  group-title="LIVE | SPORTS",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6614
+
+#EXTINF:-1, tvg-id="SkySpMix.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Mix"  group-title="LIVE | SPORTS",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7116
+
+#EXTINF:-1, tvg-id="SkySpMainEv.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Main Event"  group-title="LIVE | SPORTS",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7115
+
+#EXTINF:-1, tvg-id="SkySpTheOpen.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Golf"  group-title="LIVE | SPORTS",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
+
+#EXTINF:-1, tvg-id="SkySpFball.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Football"  group-title="LIVE | SPORTS",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6620
+
+#EXTINF:-1, tvg-id="SkySpF1.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports F1"  group-title="LIVE | SPORTS",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6617
+
+#EXTINF:-1, tvg-id="SkySpCricket.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Cricket"  group-title="LIVE | SPORTS",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6619
+
+#EXTINF:-1, tvg-id="SkySpArena.uk" tvg-logo="Logo N/A" tvg-name="UK: Sky Sports Arena"  group-title="LIVE | SPORTS",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6615
+
+#EXTINF:-1, tvg-id="PremierSports2.uk" tvg-logo="Logo N/A" tvg-name="UK: Premier Sports 2"  group-title="LIVE | SPORTS",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7113
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UK: Premier Sports 1"  group-title="LIVE | SPORTS",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7112
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UFC PPV Prelims"  group-title="LIVE | SPORTS",UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7261
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UFC PPV Main Card"  group-title="LIVE | SPORTS",UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7262
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UFC PPV Early Prelims"  group-title="LIVE | SPORTS",UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7260
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="UFC"  group-title="LIVE | SPORTS",UFC
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7259
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="tVN movies HD"  group-title="LIVE | MOVIE (subtitle)",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="tvN Movies"  group-title="LIVE | ASTRO",tvN Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6845
+
+#EXTINF:-1, tvg-id="TVN.pl" tvg-logo="Logo N/A" tvg-name="tvN HD"  group-title="LIVE | ASTRO",tvN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6844
+
+#EXTINF:-1, tvg-id="TVN.pl" tvg-logo="Logo N/A" tvg-name="TvN"  group-title="LIVE | KOREA",TvN
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8865
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TVBS Asia HD"  group-title="LIVE | ASTRO",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TVB Xing He HD"  group-title="LIVE | ASTRO",TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TVB Jade HD"  group-title="LIVE | ASTRO",TVB Jade HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6841
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TVB E-News"  group-title="LIVE | ASTRO",TVB E-News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TVB Classic"  group-title="LIVE | ASTRO",TVB Classic
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TV-AlHijrah"  group-title="LIVE | ASTRO",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TV SARAWAK"  group-title="LIVE | ASTRO",TV SARAWAK
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TV IKIM"  group-title="LIVE | MEDIA PRIMA",TV IKIM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7192
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TV 9"  group-title="LIVE | MEDIA PRIMA",TV 9
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
+
+#EXTINF:-1, tvg-id="VirginMediaOne.ie" tvg-logo="Logo N/A" tvg-name="TV 3 HD"  group-title="LIVE | MEDIA PRIMA",TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
+
+#EXTINF:-1, tvg-id="VirginMediaOne.ie" tvg-logo="Logo N/A" tvg-name="TV 3"  group-title="LIVE | MEDIA PRIMA",TV 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7266
+
+#EXTINF:-1, tvg-id="tv2.hu" tvg-logo="Logo N/A" tvg-name="TV 2"  group-title="LIVE | MEDIA PRIMA",TV 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
+
+#EXTINF:-1, tvg-id="tv1-lt" tvg-logo="Logo N/A" tvg-name="TV 1"  group-title="LIVE | MEDIA PRIMA",TV 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Turbo (2013)"  group-title="Animasi",Turbo (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7299.mp4
+
+#EXTINF:-1, tvg-id="TSN4.ca" tvg-logo="Logo N/A" tvg-name="TSN 4"  group-title="LIVE | SPORTS",TSN 4
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8926
+
+#EXTINF:-1, tvg-id="TSN3.ca" tvg-logo="Logo N/A" tvg-name="TSN 3"  group-title="LIVE | SPORTS",TSN 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8925
+
+#EXTINF:-1, tvg-id="TSN2.ca" tvg-logo="Logo N/A" tvg-name="TSN 2"  group-title="LIVE | SPORTS",TSN 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8924
+
+#EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="Logo N/A" tvg-name="TSN 1"  group-title="LIVE | SPORTS",TSN 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8923
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Truth or Dare (2018)"  group-title="Thriller",Truth or Dare (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7314.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Trolls (2016)"  group-title="Animasi",Trolls (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/323.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Triggered (2020)"  group-title="Thriller",Triggered (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6643.mp4
+
+#EXTINF:-1, tvg-id="TravelChannelHD.eu" tvg-logo="Logo N/A" tvg-name="Travel Channel HD"  group-title="LIVE | ASTRO",Travel Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6833
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Transcendence (2014)"  group-title="Thriller",Transcendence (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7298.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Tracers (2015)"  group-title="Action",Tracers (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7313.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Toys of Terror (2020)"  group-title="Horror",Toys of Terror (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/308.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Top Gun (1986)"  group-title="Action",Top Gun (1986)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7297.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Tom & Jerry HD"  group-title="LIVE | Kids Channel",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8986
+
+#EXTINF:-1, tvg-id="TLC.uk" tvg-logo="Logo N/A" tvg-name="TLC HD"  group-title="LIVE | ASTRO",TLC HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6832
+
+#EXTINF:-1, tvg-id="TLC.uk" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="LIVE | VARIETY",TLC
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8862
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="LIVE | MOVIE (subtitle)",Thrill
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="THR GEGAR"  group-title="LIVE | RADIO MALAYSIA",THR GEGAR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7174
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Wolf of Snow Hollow (2020)"  group-title="Horror",The Wolf of Snow Hollow (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6689.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Witch: Part 1. The Subversion (2018)"  group-title="Action",The Witch: Part 1. The Subversion (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7296.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Way Back (2020)"  group-title="Drama",The Way Back (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7295.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Turning (2020)"  group-title="Horror",The Turning (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7294.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Trial of the Chicago 7 (2020)"  group-title="Drama",The Trial of the Chicago 7 (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6688.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Thousand Faces of Dunjia (2017)"  group-title="Adventure",The Thousand Faces of Dunjia (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/325.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Ten Commandments (2007)"  group-title="Animasi",The Ten Commandments (2007)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7312.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Suspect (2013)"  group-title="Thriller",The Suspect (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7293.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Shallows (2016)"  group-title="Horror",The Shallows (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/322.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Secrets We Keep (2020)"  group-title="Thriller",The Secrets We Keep (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6687.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Secret Life of Pets 2 (2019)"  group-title="Animasi",The Secret Life of Pets 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7292.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Secret Life of Pets (2016)"  group-title="Animasi",The Secret Life of Pets (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7291.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Rental (2020)"  group-title="Thriller",The Rental (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7290.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Pursuit of Happyness (2006)"  group-title="Drama",The Pursuit of Happyness (2006)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7289.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Other Side of Hope (2017)"  group-title="Comedy",The Other Side of Hope (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6686.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The One and Only Ivan (2020)"  group-title="Comedy",The One and Only Ivan (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7288.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The New Mutants (2020)"  group-title="Action",The New Mutants (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Mortuary Collection (2020)"  group-title="Fantasy",The Mortuary Collection (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6685.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Monkey King 3 (2018)"  group-title="Action",The Monkey King 3 (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7287.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Monkey King 2 (2016)"  group-title="Action",The Monkey King 2 (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7286.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Monkey King (2014)"  group-title="Action",The Monkey King (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7285.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Maid (2020)"  group-title="Horror",The Maid (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7284.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Last Warrior (2017)"  group-title="Action",The Last Warrior (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7023.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Lake House (2006)"  group-title="Drama",The Lake House (2006)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/332.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Jungle Book (2016)"  group-title="Adventure",The Jungle Book (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/321.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Escape from Auschwitz (2020)"  group-title="Drama",The Escape from Auschwitz (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/301.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Dark and the Wicked (2020)"  group-title="Horror",The Dark and the Wicked (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/326.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Call (2020)"  group-title="Horror",The Call (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6655.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Boy in the Striped Pyjamas (2008)"  group-title="Drama",The Boy in the Striped Pyjamas (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7282.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Box (2009)"  group-title="Thriller",The Box (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7281.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The BFG (2016)"  group-title="Fantasy",The BFG (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7311.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="The Basketball Diaries (1995)"  group-title="Drama",The Basketball Diaries (1995)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7022.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH:White Channel"  group-title="LIVE | THAILAND",TH:White Channel
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8757
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH:TPTV"  group-title="LIVE | THAILAND",TH:TPTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8756
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH:Thai PBS 3"  group-title="LIVE | THAILAND",TH:Thai PBS 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8755
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH:News 1"  group-title="LIVE | THAILAND",TH:News 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8754
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH:CTB"  group-title="LIVE | THAILAND",TH:CTB
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8752
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | WarnerTV HD"  group-title="LIVE | THAILAND",TH | WarnerTV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8830
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Voice TV HD"  group-title="LIVE | THAILAND",TH | Voice TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8781
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | TRUE4U 24 HD"  group-title="LIVE | THAILAND",TH | TRUE4U 24 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8810
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | True Sport HD4"  group-title="LIVE | THAILAND",TH | True Sport HD4
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8820
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | True Sport HD3"  group-title="LIVE | THAILAND",TH | True Sport HD3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8819
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | True Sport HD2"  group-title="LIVE | THAILAND",TH | True Sport HD2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8818
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | True Sport HD1"  group-title="LIVE | THAILAND",TH | True Sport HD1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8817
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | TOPNEWS"  group-title="LIVE | THAILAND",TH | TOPNEWS
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8782
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | TLC"  group-title="LIVE | THAILAND",TH | TLC
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8778
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | THAIRATH HD"  group-title="LIVE | THAILAND",TH | THAIRATH HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8809
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Tennis HD"  group-title="LIVE | THAILAND",TH | Tennis HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8823
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Sony ESPN HD"  group-title="LIVE | THAILAND",TH | Sony ESPN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8789
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | SkynetsportHD"  group-title="LIVE | THAILAND",TH | SkynetsportHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8816
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Russia Today"  group-title="LIVE | THAILAND",TH | Russia Today
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8788
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PSI Saradee HD"  group-title="LIVE | THAILAND",TH | PSI Saradee HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8776
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PremierHD5"  group-title="LIVE | THAILAND",TH | PremierHD5
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8815
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PremierHD4"  group-title="LIVE | THAILAND",TH | PremierHD4
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8814
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PremierHD3"  group-title="LIVE | THAILAND",TH | PremierHD3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8813
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PremierHD2"  group-title="LIVE | THAILAND",TH | PremierHD2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8812
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PremierHD1"  group-title="LIVE | THAILAND",TH | PremierHD1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8811
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | PPTV HD"  group-title="LIVE | THAILAND",TH | PPTV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8808
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Paramount HD"  group-title="LIVE | THAILAND",TH | Paramount HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8768
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Outdoor Channel"  group-title="LIVE | THAILAND",TH | Outdoor Channel
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8779
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | NNU5 HD"  group-title="LIVE | THAILAND",TH | NNU5 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8804
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | NBA HD"  group-title="LIVE | THAILAND",TH | NBA HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8824
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | MV Laos"  group-title="LIVE | THAILAND",TH | MV Laos
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8773
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | MONO29 HD"  group-title="LIVE | THAILAND",TH | MONO29 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8760
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | MCOT HD"  group-title="LIVE | THAILAND",TH | MCOT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8807
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Lakorn Thai"  group-title="LIVE | THAILAND",TH | Lakorn Thai
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8763
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Jasmin TV"  group-title="LIVE | THAILAND",TH | Jasmin TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8774
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Hunan TV HD"  group-title="LIVE | THAILAND",TH | Hunan TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8770
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | HISTORY HD"  group-title="LIVE | THAILAND",TH | HISTORY HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8831
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | HGTV"  group-title="LIVE | THAILAND",TH | HGTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8772
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | H2 HD"  group-title="LIVE | THAILAND",TH | H2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8832
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Golf HD"  group-title="LIVE | THAILAND",TH | Golf HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8825
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | France24"  group-title="LIVE | THAILAND",TH | France24
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8786
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | FoxThai_TH"  group-title="LIVE | THAILAND",TH | FoxThai_TH
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8828
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | FoxMovies"  group-title="LIVE | THAILAND",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8826
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | FoxMovies"  group-title="LIVE | THAILAND",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8827
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Fox Sport3"  group-title="LIVE | THAILAND",TH | Fox Sport3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8822
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Fox Sport2"  group-title="LIVE | THAILAND",TH | Fox Sport2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8821
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DW"  group-title="LIVE | THAILAND",TH | DW
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8785
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DMAX"  group-title="LIVE | THAILAND",TH | DMAX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8780
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 9"  group-title="LIVE | THAILAND",TH | DLTV 9
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8800
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 8"  group-title="LIVE | THAILAND",TH | DLTV 8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8799
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 7"  group-title="LIVE | THAILAND",TH | DLTV 7
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8798
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 6"  group-title="LIVE | THAILAND",TH | DLTV 6
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8797
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 5"  group-title="LIVE | THAILAND",TH | DLTV 5
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8796
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 2"  group-title="LIVE | THAILAND",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8793
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 2"  group-title="LIVE | THAILAND",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8795
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 12"  group-title="LIVE | THAILAND",TH | DLTV 12
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8803
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 11"  group-title="LIVE | THAILAND",TH | DLTV 11
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8802
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 10"  group-title="LIVE | THAILAND",TH | DLTV 10
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8801
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 1"  group-title="LIVE | THAILAND",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8792
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DLTV 1"  group-title="LIVE | THAILAND",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8794
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | DiscoveryHDWorld"  group-title="LIVE | THAILAND",TH | DiscoveryHDWorld
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8833
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | CTB"  group-title="LIVE | THAILAND",TH | CTB
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8766
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Cinema World"  group-title="LIVE | THAILAND",TH | Cinema World
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8769
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Channel 8"  group-title="LIVE | THAILAND",TH | Channel 8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8767
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | CH7 HD"  group-title="LIVE | THAILAND",TH | CH7 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8762
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | CH3 HD"  group-title="LIVE | THAILAND",TH | CH3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8761
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Celestial Movies HD"  group-title="LIVE | THAILAND",TH | Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8765
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Cbeebies"  group-title="LIVE | THAILAND",TH | Cbeebies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8790
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Blue Ant Extreme HD"  group-title="LIVE | THAILAND",TH | Blue Ant Extreme HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8771
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | BBC World News"  group-title="LIVE | THAILAND",TH | BBC World News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8784
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Baby First"  group-title="LIVE | THAILAND",TH | Baby First
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8791
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | AXN HD"  group-title="LIVE | THAILAND",TH | AXN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8829
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Arirang"  group-title="LIVE | THAILAND",TH | Arirang
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8783
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | AnimalPlanet"  group-title="LIVE | THAILAND",TH | AnimalPlanet
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8834
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Animal Planet HD"  group-title="LIVE | THAILAND",TH | Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8777
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | ALTV HD"  group-title="LIVE | THAILAND",TH | ALTV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8759
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | Al Jazeera"  group-title="LIVE | THAILAND",TH | Al Jazeera
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8787
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | 7 HD"  group-title="LIVE | THAILAND",TH | 7 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8806
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TH | 3 HD"  group-title="LIVE | THAILAND",TH | 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8805
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="TESTNEW"  group-title="BETA TEST CHANNEL",TESTNEW
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9001
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Tempatkan Dia Di Syurga ( 2010 )"  group-title="Filem Melayu",Tempatkan Dia Di Syurga ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7016.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Surga Yang Tak Dirindukan 2 (2017)"  group-title="Filem Melayu",Surga Yang Tak Dirindukan 2 (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7015.mp4
+
+#EXTINF:-1, tvg-id="SunMusic.in" tvg-logo="Logo N/A" tvg-name="Sun Music"  group-title="LIVE | ASTRO",Sun Music
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6831
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Striker Hati Ayah (2018)"  group-title="Filem Melayu",Striker Hati Ayah (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7092.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Storks (2016)"  group-title="Animasi",Storks (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/320.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="STARZ KIDS&FAMILY"  group-title="LIVE | Kids Channel",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8991
+
+#EXTINF:-1, tvg-id="StarMoviesHD.in" tvg-logo="Logo N/A" tvg-name="Star Movies HD"  group-title="LIVE | MOVIE (subtitle)",Star Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8997
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Sputnik (2020)"  group-title="Drama",Sputnik (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6654.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Spirits' Homecoming (2016)"  group-title="Drama",Spirits' Homecoming (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7137.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Soorarai Pottru (2020)"  group-title="TAMIL | Malay Subtitle",Soorarai Pottru (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6566.mp4
+
+#EXTINF:-1, tvg-id="SonyCrimeChannel.uk" tvg-logo="Logo N/A" tvg-name="Sony TV"  group-title="LIVE | ASTRO",Sony TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6829
+
+#EXTINF:-1, tvg-id="SONYSAB.uk" tvg-logo="Logo N/A" tvg-name="Sony SAB"  group-title="LIVE | ASTRO",Sony SAB
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6827
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Sony One"  group-title="LIVE | KOREA",Sony One
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8863
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Sony Gem"  group-title="LIVE | KOREA",Sony Gem
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8864
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Slumdog Millionaire (2008)"  group-title="Bollywood",Slumdog Millionaire (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6642.mp4
+
+#EXTINF:-1, tvg-id="SkyNews.uk" tvg-logo="Logo N/A" tvg-name="Sky News HD"  group-title="LIVE | ASTRO",Sky News HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Sinaran (2015)"  group-title="Filem Melayu",Sinaran (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7014.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Sinar Lebaran (2018)"  group-title="Filem Melayu",Sinar Lebaran (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7091.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Sinar FM"  group-title="LIVE | RADIO MALAYSIA",Sinar FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7172
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Simfoni Duniaku (1994)"  group-title="Filem Melayu",Simfoni Duniaku (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7013.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="sig"  group-title="BETA TEST CHANNEL",sig
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9005
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Shaun of the Dead (2004)"  group-title="Horror",Shaun of the Dead (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/319.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Sekali Lagi (2011)"  group-title="Filem Melayu",Sekali Lagi (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7012.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Seized (2020)"  group-title="Action",Seized (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Scary Movie 3 (2003)"  group-title="Comedy",Scary Movie 3 (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/333.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Sayang Suria (2015)"  group-title="Filem Melayu",Sayang Suria (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7011.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Save Yourselves! (2020)"  group-title="Comedy",Save Yourselves! (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6684.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Saka Zain Jusoh (2019)"  group-title="Filem Melayu",Saka Zain Jusoh (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7010.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Run (2020)"  group-title="Horror",Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7021.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Rugby Pass TV"  group-title="LIVE | SPORTS",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="RTM Sports"  group-title="LIVE | MEDIA PRIMA",RTM Sports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7186
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="RTB MALAYSIA"  group-title="LIVE | MEDIA PRIMA",RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7188
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Rogue City (2020)"  group-title="Thriller",Rogue City (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6653.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Robert the Bruce (2019)"  group-title="Drama",Robert the Bruce (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6683.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Relic (2020)"  group-title="Horror",Relic (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6652.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Red By HBO HD"  group-title="LIVE | MOVIE (subtitle)",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7071
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Rebecca (2020)"  group-title="Drama",Rebecca (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6651.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Raya and the Last Dragon (2021)"  group-title="Animasi",Raya and the Last Dragon (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7331.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Ravers (2020)"  group-title="Horror",Ravers (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6650.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="rakbi"  group-title="LIVE | USA",rakbi
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8881
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Raatchasi (2019)"  group-title="TAMIL | Malay Subtitle",Raatchasi (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6564.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="R.I.P.D. (2013)"  group-title="Action",R.I.P.D. (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7139.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="R. K. Nagar (2019)"  group-title="TAMIL | Malay Subtitle",R. K. Nagar (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7140.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Putera (1994)"  group-title="Filem Melayu",Putera (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7009.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Psy 3: W imię zasad (2020)"  group-title="Action",Psy 3: W imię zasad (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6682.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Project Power (2020)"  group-title="Action",Project Power (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="PPV Boxing"  group-title="LIVE | SPORTS",PPV Boxing
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7263
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Possessor Uncut (2020)"  group-title="Thriller",Possessor Uncut (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6649.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="PONTIANAK DAN DOT DOT (2016)"  group-title="Filem Melayu",PONTIANAK DAN DOT DOT (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7110.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Playhouse (2021)"  group-title="Horror",Playhouse (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7280.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="PK (2014)"  group-title="Bollywood",PK (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7310.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Pisau Cukur (2009)"  group-title="Filem Melayu",Pisau Cukur (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7008.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Phineas and Ferb The Movie: Candace Against the Universe (2020)"  group-title="Animasi",Phineas and Ferb The Movie: Candace Against the Universe (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6648.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Pet (2016)"  group-title="Horror",Pet (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/344.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Payback (1999)"  group-title="Action",Payback (1999)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7138.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Pasal Kau!"  group-title="Filem Melayu",Pasal Kau!
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6681.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Paku Pontianak (2013)"  group-title="Filem Melayu",Paku Pontianak (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7007.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Pak Dogo (2020)"  group-title="Filem Melayu",Pak Dogo (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6680.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Pahuna: The Little Visitors (2017)"  group-title="Drama",Pahuna: The Little Visitors (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7279.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Over the Moon (2020)"  group-title="Animasi",Over the Moon (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6679.mp4
+
+#EXTINF:-1, tvg-id="BBC1London.uk" tvg-logo="Logo N/A" tvg-name="One HD"  group-title="LIVE | ASTRO",One HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Ombak Rindu (2011)"  group-title="Filem Melayu",Ombak Rindu (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7006.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Nocturne (2020)"  group-title="Horror",Nocturne (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6678.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Nobody Sleeps in the Woods Tonight (2020)"  group-title="Horror",Nobody Sleeps in the Woods Tonight (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6677.mp4
+
+#EXTINF:-1, tvg-id="NickelodeonHD.pl" tvg-logo="Logo N/A" tvg-name="Nicktoons FHD"  group-title="LIVE | Kids Channel",Nicktoons FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7202
+
+#EXTINF:-1, tvg-id="Nickelodeon.uk" tvg-logo="Logo N/A" tvg-name="Nickelodeon HD"  group-title="LIVE | ASTRO",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6814
+
+#EXTINF:-1, tvg-id="Nickelodeon.uk" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="LIVE | Kids Channel",Nickelodeon
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7201
+
+#EXTINF:-1, tvg-id="NickJunior.uk" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="LIVE | ASTRO",Nick Jr
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Neighbors 2: Sorority Rising (2016)"  group-title="Comedy",Neighbors 2: Sorority Rising (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/330.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Need for Speed (2014)"  group-title="Action",Need for Speed (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/318.mp4
+
+#EXTINF:-1, tvg-id="NationalGeographic.uk" tvg-logo="Logo N/A" tvg-name="National Geographic HD"  group-title="LIVE | DOCUMENTARY (subtitle)",National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+
+#EXTINF:-1, tvg-id="NatGeoPeople.de" tvg-logo="Logo N/A" tvg-name="NatGeo People"  group-title="LIVE | ASTRO",NatGeo People
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6811
+
+#EXTINF:-1, tvg-id="NatGeoWild.uk" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild HD"  group-title="LIVE | DOCUMENTARY (subtitle)",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+
+#EXTINF:-1, tvg-id="NatGeoPeople.it" tvg-logo="Logo N/A" tvg-name="Nat Geo People HD"  group-title="LIVE | DOCUMENTARY (subtitle)",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+
+#EXTINF:-1, tvg-id="MUTV.uk" tvg-logo="Logo N/A" tvg-name="MUTV"  group-title="LIVE | SPORTS",MUTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7236
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Munich (2005)"  group-title="Drama",Munich (2005)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7135.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Mulan (2020)"  group-title="Adventure",Mulan (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/307.mp4
+
+#EXTINF:-1, tvg-id="MTV.uk" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="LIVE | ASTRO",MTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
+
+#EXTINF:-1, tvg-id="MoviesNow.in" tvg-logo="Logo N/A" tvg-name="Movies Now"  group-title="LIVE | MOVIE (subtitle)",Movies Now
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8999
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Mosul 2019"  group-title="Action",Mosul 2019
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7117.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Mon dan Jin Pakai Toncit (2013)"  group-title="Filem Melayu",Mon dan Jin Pakai Toncit (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6983.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="MNX"  group-title="LIVE | MOVIE (subtitle)",MNX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8998
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Miss Peregrine's Home for Peculiar Children (2016)"  group-title="Fantasy",Miss Peregrine's Home for Peculiar Children (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/317.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Miss India (2020)"  group-title="TAMIL | Malay Subtitle",Miss India (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6641.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Meet Joe Black (1998)"  group-title="Drama",Meet Joe Black (1998)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/343.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Max Winslow and The House of Secrets (2020)"  group-title="Drama",Max Winslow and The House of Secrets (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7136.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Matilah Nak Pontianak"  group-title="Filem Melayu",Matilah Nak Pontianak
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7133.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Marionette (2020)"  group-title="Thriller",Marionette (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/306.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Manap Karaoke (2020)"  group-title="Filem Melayu",Manap Karaoke (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/331.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Man santan ( 2020 )"  group-title="Filem Melayu",Man santan ( 2020 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/337.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Mama Tak Akan Sama"  group-title="Filem Melayu",Mama Tak Akan Sama
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7090.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Maleficent: Mistress of Evil (2019)"  group-title="Fantasy",Maleficent: Mistress of Evil (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/305.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="-Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)"  group-title="Animasi",-Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/338.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Malam Ini Aku Menangis ( 2018 )"  group-title="Filem Melayu",Malam Ini Aku Menangis ( 2018 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7106.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Makkal TV"  group-title="LIVE | ASTRO",Makkal TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Magika (2010)"  group-title="Filem Melayu",Magika (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7005.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Mael Totey: The Movie (2020)"  group-title="Filem Melayu",Mael Totey: The Movie (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/304.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="LowBW UFC PPV Main Card"  group-title="LIVE | SPORTS",LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7265
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Love and Monsters (2020)"  group-title="Action",Love and Monsters (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6676.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Loco (2020)"  group-title="Drama",Loco (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7278.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Lif & AJK (2021)"  group-title="Filem Melayu",Lif & AJK (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/8975.mp4
+
+#EXTINF:-1, tvg-id="LiverpoolFCTV.uk" tvg-logo="Logo N/A" tvg-name="LFC TV"  group-title="LIVE | SPORTS",LFC TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7237
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Léon: The Professional (1994)"  group-title="Action",Léon: The Professional (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/303.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Last Three Days (2020)"  group-title="Action",Last Three Days (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7277.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Laskar Pelangi 2: Edensor (2013)"  group-title="Filem Melayu",Laskar Pelangi 2: Edensor (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7105.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Lamaran Perfect (2018)"  group-title="Filem Melayu",Lamaran Perfect (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7104.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="KPlus HD"  group-title="LIVE | ASTRO",KPlus HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6805
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="KL Special Force (2018)"  group-title="Filem Melayu",KL Special Force (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7103.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Kix HD"  group-title="LIVE | ASTRO",Kix HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6804
+
+#EXTINF:-1, tvg-id="Kix.uk" tvg-logo="Logo N/A" tvg-name="KiX"  group-title="LIVE | MOVIE (subtitle)",KiX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7229
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kingsman: The Secret Service (2014)"  group-title="Action",Kingsman: The Secret Service (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/316.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kimchi Untuk Awak (2017)"  group-title="Filem Melayu",Kimchi Untuk Awak (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7004.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kick (2014)"  group-title="Action",Kick (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Khalifahkan Aku"  group-title="Filem Melayu",Khalifahkan Aku
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7102.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kerantung (2018)"  group-title="Filem Melayu",Kerantung (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7101.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kelaster (2020)"  group-title="Filem Melayu",Kelaster (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7020.mkv
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="KBS World HD"  group-title="LIVE | ASTRO",KBS World HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6803
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kawan Aku Mati Dalam Rumah Sewa (2014)"  group-title="Filem Melayu",Kawan Aku Mati Dalam Rumah Sewa (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/427.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kampong Pisang Musikal Raya Istimewa (2021)"  group-title="Filem Melayu",Kampong Pisang Musikal Raya Istimewa (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/8976.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kalut Nak Raya (2017)"  group-title="Filem Melayu",Kalut Nak Raya (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6987.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Kabhi Alvida Naa Kehna (2006)"  group-title="Bollywood",Kabhi Alvida Naa Kehna (2006)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7132.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Jiu Jitsu (2020)"  group-title="Action",Jiu Jitsu (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7276.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Jingle Jangle: A Christmas Journey (2020)"  group-title="Fantasy",Jingle Jangle: A Christmas Journey (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7131.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Jejaka Terhangat (2015)"  group-title="Filem Melayu",Jejaka Terhangat (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6986.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Jebat (2020)"  group-title="Filem Melayu",Jebat (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6985.mkv
+
+#EXTINF:-1, tvg-id="JayaMax.in" tvg-logo="Logo N/A" tvg-name="Jaya Max"  group-title="LIVE | ASTRO",Jaya Max
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6802
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="It Cuts Deep (2020)"  group-title="Horror",It Cuts Deep (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7273.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Isteriku CEO ( 2018 )"  group-title="Filem Melayu",Isteriku CEO ( 2018 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6984.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Istanbul Aku Datang! (2012)"  group-title="Filem Melayu",Istanbul Aku Datang! (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7100.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Iron Man (2008)"  group-title="Action",Iron Man (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/315.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Intimate Enemies (2015)"  group-title="Action",Intimate Enemies (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7130.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Inc. (2001)"  group-title="Animasi",Inc. (2001)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7134.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="In Bruges (2008)"  group-title="Comedy",In Bruges (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/314.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Iman Ke Syurga (2018)"  group-title="Filem Melayu",Iman Ke Syurga (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7099.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="I Am Legend (2007)"  group-title="Action",I Am Legend (2007)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/313.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hot Fuzz (2007)"  group-title="Action",Hot Fuzz (2007)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/312.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Hot FM"  group-title="LIVE | RADIO MALAYSIA",Hot FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7170
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Holidate (2020)"  group-title="Comedy",Holidate (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6647.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Hitz FM"  group-title="LIVE | RADIO MALAYSIA",Hitz FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7171
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Hits Movies HD"  group-title="LIVE | ASTRO",Hits Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6801
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Hits Movies"  group-title="LIVE | MOVIE (subtitle)",Hits Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
+
+#EXTINF:-1, tvg-id="SkyCinemaHits.de" tvg-logo="Logo N/A" tvg-name="Hits HD"  group-title="LIVE | ASTRO",Hits HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
+
+#EXTINF:-1, tvg-id="History.uk" tvg-logo="Logo N/A" tvg-name="History HD"  group-title="LIVE | ASTRO",History HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6799
+
+#EXTINF:-1, tvg-id="History.uk" tvg-logo="Logo N/A" tvg-name="History FHD"  group-title="LIVE | DOCUMENTARY (subtitle)",History FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hingga Hujung Nyawa (2004)"  group-title="Filem Melayu",Hingga Hujung Nyawa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6982.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hilang Akal (2018)"  group-title="Filem Melayu",Hilang Akal (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6981.mp4
+
+#EXTINF:-1, tvg-id="HGTV.pl" tvg-logo="Logo N/A" tvg-name="HGTV HD"  group-title="LIVE | ASTRO",HGTV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
+
+#EXTINF:-1, tvg-id="HGTV.us" tvg-logo="Logo N/A" tvg-name="HGTV"  group-title="LIVE | DOCUMENTARY (subtitle)",HGTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
+
+#EXTINF:-1, tvg-id="HBOSignature.us" tvg-logo="Logo N/A" tvg-name="HBO Signature FHD"  group-title="LIVE | MOVIE (subtitle)",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="HBO Hits FHD"  group-title="LIVE | MOVIE (subtitle)",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
+
+#EXTINF:-1, tvg-id="HBO.hu" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="LIVE | ASTRO",HBO HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
+
+#EXTINF:-1, tvg-id="HBO.hu" tvg-logo="Logo N/A" tvg-name="HBO FHD"  group-title="LIVE | MOVIE (subtitle)",HBO FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
+
+#EXTINF:-1, tvg-id="HBOFamilyHD.cl" tvg-logo="Logo N/A" tvg-name="HBO Family FHD"  group-title="LIVE | MOVIE (subtitle)",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Harta Karun Tok Kie (2018)"  group-title="Filem Melayu",Harta Karun Tok Kie (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7098.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hantu Rumah Sakit Jiwa (2018)"  group-title="Filem Melayu",Hantu Rumah Sakit Jiwa (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7097.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hantu Bonceng 2.0 (2021)"  group-title="Filem Melayu",Hantu Bonceng 2.0 (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7283.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hancock (2008)"  group-title="Action",Hancock (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7129.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Halahal (2020)"  group-title="Drama",Halahal (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6674.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Hachi: A Dog's Tale (2009)"  group-title="Drama",Hachi: A Dog's Tale (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7128.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Greenland (2020)"  group-title="Action",Greenland (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7019.mp4
+
+#EXTINF:-1, tvg-id="GolfChannel.us" tvg-logo="Logo N/A" tvg-name="Golf Channel HD"  group-title="LIVE | SPORTS",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Godzilla vs. Kong (2021)"  group-title="Action",Godzilla vs. Kong (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Ginny Weds Sunny (2020)"  group-title="Comedy",Ginny Weds Sunny (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6673.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Ghosts of War (2020)"  group-title="Thriller",Ghosts of War (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/310.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Geo-Disaster (2017)"  group-title="Action",Geo-Disaster (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/302.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Gemerlapan (1997)"  group-title="Filem Melayu",Gemerlapan (1997)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6980.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Gadoh (2009)"  group-title="Filem Melayu",Gadoh (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7003.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Gabbar Is Back (2015)"  group-title="Bollywood",Gabbar Is Back (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/311.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="FX Cinema HD"  group-title="LIVE | ASTRO",FX Cinema HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="FS 1"  group-title="LIVE | SPORTS",FS 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9003
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Freaky (2020)"  group-title="Horror",Freaky (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7127.mp4
+
+#EXTINF:-1, tvg-id="france24" tvg-logo="Logo N/A" tvg-name="France 24 HD"  group-title="LIVE | ASTRO",France 24 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6794
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="foxmoviebeta"  group-title="BETA TEST CHANNEL",foxmoviebeta
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9007
+
+#EXTINF:-1, tvg-id="FoxSports.it" tvg-logo="Logo N/A" tvg-name="FOX Sports HD"  group-title="LIVE | SPORTS",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+
+#EXTINF:-1, tvg-id="FoxSports3HD.cl" tvg-logo="Logo N/A" tvg-name="FOX Sports 3 HD"  group-title="LIVE | SPORTS",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
+
+#EXTINF:-1, tvg-id="FoxSports2HD.mx" tvg-logo="Logo N/A" tvg-name="FOX Sports 2 HD"  group-title="LIVE | SPORTS",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Fox Movies Premium"  group-title="LIVE | MOVIE (subtitle)",Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
+
+#EXTINF:-1, tvg-id="fox-life" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="LIVE | MOVIE (subtitle)",Fox Life
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
+
+#EXTINF:-1, tvg-id="fox-crime" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="LIVE | MOVIE (subtitle)",Fox Crime
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Fox Action Movies"  group-title="LIVE | MOVIE (subtitle)",Fox Action Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
+
+#EXTINF:-1, tvg-id="FX.uk" tvg-logo="Logo N/A" tvg-name="FOX"  group-title="LIVE | MOVIE (subtitle)",FOX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7227
+
+#EXTINF:-1, tvg-id="FoodNetwork.uk" tvg-logo="Logo N/A" tvg-name="Food Network HD"  group-title="LIVE | ASTRO",Food Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Flypaper (2011)"  group-title="Comedy",Flypaper (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/342.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Fishbowl (2018)"  group-title="Drama",Fishbowl (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6672.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Final Voyage (2020)"  group-title="Drama",Final Voyage (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/334.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Fatman (2020)"  group-title="Action",Fatman (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Fast Furious 9"  group-title="Action",Fast Furious 9
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/8977.mp4
+
+#EXTINF:-1, tvg-id="Eurosport.int" tvg-logo="Logo N/A" tvg-name="Eurosport HD"  group-title="LIVE | ASTRO",Eurosport HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6784
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Era FM"  group-title="LIVE | RADIO MALAYSIA",Era FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7169
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="eGG Network"  group-title="LIVE | ASTRO",eGG Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6783
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Edward Scissorhands (1990)"  group-title="Fantasy",Edward Scissorhands (1990)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/296.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Echo Boomers (2020)"  group-title="Action",Echo Boomers (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7275.mp4
+
+#EXTINF:-1, tvg-id="dwelle" tvg-logo="Logo N/A" tvg-name="DW HD"  group-title="LIVE | ASTRO",DW HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6782
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Dune Drifter (2020)"  group-title="Action",Dune Drifter (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7126.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport WWE"  group-title="LIVE | SPORTS",DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7144
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Variety 4"  group-title="LIVE | SPORTS",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6580
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Variety 3"  group-title="LIVE | SPORTS",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6579
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Variety 2"  group-title="LIVE | SPORTS",DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6578
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Variety 1"  group-title="LIVE | SPORTS",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6577
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Tennis"  group-title="LIVE | SPORTS",DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7143
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Rugby"  group-title="LIVE | SPORTS",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6582
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport PSL"  group-title="LIVE | SPORTS",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6573
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Premier League"  group-title="LIVE | SPORTS",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6574
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Motorsport"  group-title="LIVE | SPORTS",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7142
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport MáXimo"  group-title="LIVE | SPORTS",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6585
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport La Liga"  group-title="LIVE | SPORTS",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6575
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Grandstand"  group-title="LIVE | SPORTS",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6572
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Golf"  group-title="LIVE | SPORTS",DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7145
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Football"  group-title="LIVE | SPORTS",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Cricket"  group-title="LIVE | SPORTS",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6583
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: Supersport Blitz"  group-title="LIVE | SPORTS",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6584
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="DSTV: SuperSport Action"  group-title="LIVE | SPORTS",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6581
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Dreamworks HD"  group-title="LIVE | ASTRO",Dreamworks HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6780
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Drag Me to Hell (2009)"  group-title="Horror",Drag Me to Hell (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/341.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita's Dinosaur (2006)"  group-title="Animasi",Doraemon: Nobita's Dinosaur (2006)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7086.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita The Great New Adventure Into The Underworld"  group-title="Animasi",Doraemon: Nobita The Great New Adventure Into The Underworld
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7087.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)"  group-title="Animasi",Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7085.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita and the Winged Braves (2001)"  group-title="Animasi",Doraemon: Nobita and the Winged Braves (2001)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7025.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita and the Windmasters (2003)"  group-title="Animasi",Doraemon: Nobita and the Windmasters (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7027.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita and the Steel Troops (1986)"  group-title="Animasi",Doraemon: Nobita and the Steel Troops (1986)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7088.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)"  group-title="Animasi",Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7089.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Doraemon The Movie - Nobita Dan Kerajaan Robot"  group-title="Animasi",Doraemon The Movie - Nobita Dan Kerajaan Robot
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Don't Listen (2020)"  group-title="Drama",Don't Listen (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7125.mp4
+
+#EXTINF:-1, tvg-id="DMAX.it" tvg-logo="Logo N/A" tvg-name="DMAX HD"  group-title="LIVE | ASTRO",DMAX HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6778
+
+#EXTINF:-1, tvg-id="DisneyXD.uk" tvg-logo="Logo N/A" tvg-name="Disney XD FHD"  group-title="LIVE | Kids Channel",Disney XD FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7198
+
+#EXTINF:-1, tvg-id="DisneyJunior.uk" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="LIVE | Kids Channel",Disney Junior
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7197
+
+#EXTINF:-1, tvg-id="Disney.uk" tvg-logo="Logo N/A" tvg-name="Disney Channel HD"  group-title="LIVE | Kids Channel",Disney Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7196
+
+#EXTINF:-1, tvg-id="DiscoveryScience.uk" tvg-logo="Logo N/A" tvg-name="Discovery Science HD"  group-title="LIVE | ASTRO",Discovery Science HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6774
+
+#EXTINF:-1, tvg-id="DiscoveryHD.uk" tvg-logo="Logo N/A" tvg-name="Discovery HD"  group-title="LIVE | ASTRO",Discovery HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6773
+
+#EXTINF:-1, tvg-id="Discovery.uk" tvg-logo="Logo N/A" tvg-name="Discovery Channel HD"  group-title="LIVE | DOCUMENTARY (subtitle)",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Discovery Asia."  group-title="LIVE | DOCUMENTARY (subtitle)",Discovery Asia.
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8856
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Discovery Asia"  group-title="LIVE | ASTRO",Discovery Asia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Didik TV (NTV 7)"  group-title="LIVE | MEDIA PRIMA",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8922
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Death of Me (2020)"  group-title="Horror",Death of Me (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/340.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Deadlocked (2020)"  group-title="Horror",Deadlocked (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7124.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Dead Earth (2020)"  group-title="Action",Dead Earth (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/300.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Darbar (2020)"  group-title="TAMIL | Malay Subtitle",Darbar (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6565.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Dalil Cinta ( 2010 )"  group-title="Filem Melayu",Dalil Cinta ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7002.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cuties (2020)"  group-title="Drama",Cuties (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6646.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cut Throat City (2020)"  group-title="Action",Cut Throat City (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6671.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cun! (2011)"  group-title="Filem Melayu",Cun! (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/426.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cuci (2009)"  group-title="Filem Melayu",Cuci (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7001.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="CTI Asia"  group-title="LIVE | ASTRO",CTI Asia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6771
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cruise Cinta (2018)"  group-title="Filem Melayu",Cruise Cinta (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7096.mp4
+
+#EXTINF:-1, tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="Logo N/A" tvg-name="crime & investigation HD"  group-title="LIVE | ASTRO",crime & investigation HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6756
+
+#EXTINF:-1, tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="Logo N/A" tvg-name="Crime & Investigation"  group-title="LIVE | VARIETY",Crime & Investigation
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8858
+
+#EXTINF:-1, tvg-id="ComedyCentral.uk" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="LIVE | ASTRO",Comedy Central
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6770
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Come Play (2020)"  group-title="Horror",Come Play (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7272.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Come Away (2020)"  group-title="Fantasy",Come Away (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6670.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Combat Wombat (2020)"  group-title="Animasi",Combat Wombat (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7118.mp4
+
+#EXTINF:-1, tvg-id="Colors.in" tvg-logo="Logo N/A" tvg-name="Colors HD"  group-title="LIVE | ASTRO",Colors HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Colors Cineplex"  group-title="LIVE | ASTRO",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6768
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Code of Thieves (2020)"  group-title="Action",Code of Thieves (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/425.mp4
+
+#EXTINF:-1, tvg-id="CNN.nws" tvg-logo="Logo N/A" tvg-name="CNN HD"  group-title="LIVE | ASTRO",CNN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
+
+#EXTINF:-1, tvg-id="CNBC.nws" tvg-logo="Logo N/A" tvg-name="CNBC"  group-title="LIVE | ASTRO",CNBC
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6766
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Clownery (2020)"  group-title="Horror",Clownery (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6669.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Clouds (2020)"  group-title="Drama",Clouds (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6645.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cinta Sticky Note (2018)"  group-title="Filem Melayu",Cinta Sticky Note (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7095.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cinta Paling Agung (2015)"  group-title="Filem Melayu",Cinta Paling Agung (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7000.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cinta Kolestrol (2002)"  group-title="Filem Melayu",Cinta Kolestrol (2002)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/424.mp4
+
+#EXTINF:-1, tvg-id="CinemaxO.mx" tvg-logo="Logo N/A" tvg-name="cinemax.."  group-title="BETA TEST CHANNEL",cinemax..
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9008
+
+#EXTINF:-1, tvg-id="CineMAX.ro" tvg-logo="Logo N/A" tvg-name="Cinemax HD"  group-title="LIVE | ASTRO",Cinemax HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6764
+
+#EXTINF:-1, tvg-id="CineMAX.ro" tvg-logo="Logo N/A" tvg-name="Cinemax FHD"  group-title="LIVE | MOVIE (subtitle)",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Cinema World"  group-title="LIVE | MOVIE (subtitle)",Cinema World
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7219
+
+#EXTINF:-1, tvg-id="ChuttiTV.in" tvg-logo="Logo N/A" tvg-name="Chutti TV"  group-title="LIVE | ASTRO",Chutti TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Chick Fight (2021)"  group-title="Comedy",Chick Fight (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7271.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Channel News Asia HD"  group-title="LIVE | ASTRO",Channel News Asia HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6765
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Chalte Chalte (2018)"  group-title="Bollywood",Chalte Chalte (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/329.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Celestial Movies HD"  group-title="LIVE | ASTRO",Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6760
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Celestial Movies"  group-title="LIVE | MOVIE (subtitle)",Celestial Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Celestial Classic Movies."  group-title="LIVE | MOVIE (subtitle)",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Celestial Classic Movies"  group-title="LIVE | ASTRO",Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6758
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="CCTV4 HD"  group-title="LIVE | ASTRO",CCTV4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
+
+#EXTINF:-1, tvg-id="CartoonNetwork.uk" tvg-logo="Logo N/A" tvg-name="Cartoon Network HD"  group-title="LIVE | ASTRO",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6757
+
+#EXTINF:-1, tvg-id="CartoonNetwork.uk" tvg-logo="Logo N/A" tvg-name="Cartoon Network FHD"  group-title="LIVE | Kids Channel",Cartoon Network FHD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7200
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Cagefighter: Worlds Collide (2020)"  group-title="Action",Cagefighter: Worlds Collide (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7122.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bukan Cerita Cinta Kita (2018)"  group-title="Filem Melayu",Bukan Cerita Cinta Kita (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7094.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Budok Kuba (2019)"  group-title="Filem Melayu",Budok Kuba (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6999.mp4
+
+#EXTINF:-1, tvg-id="BTSportESPN.uk" tvg-logo="Logo N/A" tvg-name="BT Sport ESPN"  group-title="LIVE | SPORTS",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6613
+
+#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="Logo N/A" tvg-name="BT Sport 3"  group-title="LIVE | SPORTS",BT Sport 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6612
+
+#EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="Logo N/A" tvg-name="BT Sport 2"  group-title="LIVE | SPORTS",BT Sport 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6611
+
+#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="Logo N/A" tvg-name="BT Sport 1"  group-title="LIVE | SPORTS",BT Sport 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6610
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Broil (2020)"  group-title="Fantasy",Broil (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6668.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bravo 5 (2015)"  group-title="Action",Bravo 5 (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7121.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Borat Subsequent Moviefilm (2020)"  group-title="Comedy",Borat Subsequent Moviefilm (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/299.mp4
+
+#EXTINF:-1, tvg-id="Boomerang.uk" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="LIVE | Kids Channel",Boomerang
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="BollyOne HD"  group-title="LIVE | ASTRO",BollyOne HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="BoBoiBoy Movie 2 (2019)"  group-title="Animasi",BoBoiBoy Movie 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/336.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Blue Ant Extreme"  group-title="LIVE | VARIETY",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8861
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Blue Ant Entertainment"  group-title="LIVE | VARIETY",Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8860
+
+#EXTINF:-1, tvg-id="Bloomberg.nws" tvg-logo="Logo N/A" tvg-name="Bloomberg TV"  group-title="LIVE | ASTRO",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6751
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="BLACKPINK: Light Up the Sky (2020)"  group-title="Drama",BLACKPINK: Light Up the Sky (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6667.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Black Beauty (2020)"  group-title="Drama",Black Beauty (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7270.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bini Aku Dari Neraka Raya (2018)"  group-title="Filem Melayu",Bini Aku Dari Neraka Raya (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7093.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bikers Kental 2 (2019)"  group-title="Filem Melayu",Bikers Kental 2 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6998.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bikers Kental (2013)"  group-title="Filem Melayu",Bikers Kental (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6997.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bigfoot Family (2020)"  group-title="Animasi",Bigfoot Family (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/339.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Biar Betul (2004)"  group-title="Filem Melayu",Biar Betul (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6996.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bhoothnath Returns (2014)"  group-title="TAMIL | Malay Subtitle",Bhoothnath Returns (2014)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6568.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Bhoothnath (2008)"  group-title="TAMIL | Malay Subtitle",Bhoothnath (2008)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6567.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Bernama News"  group-title="LIVE | ASTRO",Bernama News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6750
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="BERNAMA"  group-title="LIVE | MEDIA PRIMA",BERNAMA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Berita RTM"  group-title="LIVE | MEDIA PRIMA",Berita RTM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7191
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Ben 10 Versus the Universe: The Movie (2020)"  group-title="Animasi",Ben 10 Versus the Universe: The Movie (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6666.mkv
+
+#EXTINF:-1, tvg-id="beINSPORTS.us" tvg-logo="Logo N/A" tvg-name="beIN Sports"  group-title="LIVE | SPORTS",beIN Sports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6749
+
+#EXTINF:-1, tvg-id="bein2hd.jsc" tvg-logo="Logo N/A" tvg-name="BeIN Sport 2"  group-title="LIVE | SPORTS",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6598
+
+#EXTINF:-1, tvg-id="bein13hd.jsc" tvg-logo="Logo N/A" tvg-name="BeIN Sport 13"  group-title="LIVE | SPORTS",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6609
+
+#EXTINF:-1, tvg-id="bein1hd.jsc" tvg-logo="Logo N/A" tvg-name="BeIN Sport 1"  group-title="LIVE | SPORTS",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6597
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="beIN MAX 2"  group-title="LIVE | SPORTS",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7195
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="beIN MAX"  group-title="LIVE | SPORTS",beIN MAX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
+#EXTINF:-1, tvg-id="BBCLifestyle.pl" tvg-logo="Logo N/A" tvg-name="BBC Lifestyle"  group-title="LIVE | ASTRO",BBC Lifestyle
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6746
+
+#EXTINF:-1, tvg-id="BBCEarth.nordic" tvg-logo="Logo N/A" tvg-name="BBC Earth"  group-title="LIVE | DOCUMENTARY (subtitle)",BBC Earth
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Banglasia 2.0 (2019)"  group-title="Filem Melayu",Banglasia 2.0 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6995.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Baik Punya Cilok (2005)"  group-title="Filem Melayu",Baik Punya Cilok (2005)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6994.mp4
+
+#EXTINF:-1, tvg-id="AXN.it" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="LIVE | ASTRO",AXN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6743
+
+#EXTINF:-1, tvg-id="AXN.bg" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="LIVE | MOVIE (subtitle)",AXN
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Zee Tamil HD"  group-title="LIVE | ASTRO",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Xiao Tai Yang HD"  group-title="LIVE | ASTRO",ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6741
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Warna HD"  group-title="LIVE | ASTRO",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Astro Wah Lai Toi"  group-title="LIVE | ASTRO",Astro Wah Lai Toi
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8970
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Vinmeen HD"  group-title="LIVE | ASTRO",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Vaanavil HD"  group-title="LIVE | ASTRO",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO TVIQ"  group-title="LIVE | ASTRO",ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Tutor TV UPSR"  group-title="LIVE | ASTRO",ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Tutor TV SPM"  group-title="LIVE | ASTRO",ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Tutor TV PT3"  group-title="LIVE | ASTRO",ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT HD"  group-title="LIVE | SPORTS",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT 4 HD"  group-title="LIVE | SPORTS",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT 3 HD"  group-title="LIVE | SPORTS",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO SUPERSPORT 2 HD"  group-title="LIVE | SPORTS",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Sun TV HD"  group-title="LIVE | ASTRO",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Star Vijay HD"  group-title="LIVE | ASTRO",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Shuang Xing HD"  group-title="LIVE | ASTRO",ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6731
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Ria HD"  group-title="LIVE | ASTRO",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Rania HD"  group-title="LIVE | ASTRO",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Quan Jia HD"  group-title="LIVE | ASTRO",ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6728
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Prima HD"  group-title="LIVE | ASTRO",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Oh!K HD"  group-title="LIVE | ASTRO",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6726
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Oasis HD"  group-title="LIVE | ASTRO",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Naura HD"  group-title="LIVE | ASTRO",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO iQIYI HD"  group-title="LIVE | ASTRO",ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Hua Hee Dai HD"  group-title="LIVE | ASTRO",ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6722
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Hello"  group-title="LIVE | ASTRO",ASTRO Hello
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6721
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO GO Shop 2"  group-title="LIVE | ASTRO",ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6718
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Cricket"  group-title="LIVE | SPORTS",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Colors Tamil"  group-title="LIVE | ASTRO",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Astro Citra HD (subtitle)"  group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Ceria HD"  group-title="LIVE | ASTRO",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Astro Boo"  group-title="LIVE | ASTRO",Astro Boo
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8872
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Awani HD"  group-title="LIVE | ASTRO",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Aura HD"  group-title="LIVE | ASTRO",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Arena HD"  group-title="LIVE | SPORTS",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AOD 355 HD"  group-title="LIVE | ASTRO",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AOD 354 HD"  group-title="LIVE | ASTRO",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AOD 353 HD"  group-title="LIVE | ASTRO",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AOD 352 HD"  group-title="LIVE | ASTRO",ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AOD 351 HD"  group-title="LIVE | ASTRO",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO AEC HD"  group-title="LIVE | ASTRO",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ASTRO Adithya"  group-title="LIVE | ASTRO",ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Asian Food Network HD"  group-title="LIVE | ASTRO",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Asia Food Network"  group-title="LIVE | VARIETY",Asia Food Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Antidote (2018)"  group-title="Action",Antidote (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6644.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Anthropocene (2020)"  group-title="Drama",Anthropocene (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/335.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Aniplus HD"  group-title="LIVE | ASTRO",Aniplus HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6697
+
+#EXTINF:-1, tvg-id="Animax.de" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="LIVE | ASTRO",Animax
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
+
+#EXTINF:-1, tvg-id="AnimalPlanet.uk" tvg-logo="Logo N/A" tvg-name="Animal Planet HD"  group-title="LIVE | ASTRO",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6695
+
+#EXTINF:-1, tvg-id="AnimalPlanet.uk" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="LIVE | DOCUMENTARY (subtitle)",Animal Planet
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Angela's Christmas Wish (2020)"  group-title="Animasi",Angela's Christmas Wish (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7120.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Anak Perjanjian Syaitan (2019)"  group-title="Filem Melayu",Anak Perjanjian Syaitan (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6993.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Amulet (2020)"  group-title="Horror",Amulet (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/298.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Always and Forever (2020)"  group-title="Thriller",Always and Forever (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7269.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="Al-Jazzera HD"  group-title="LIVE | ASTRO",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Alien Invasion (2018)"  group-title="Action",Alien Invasion (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7119.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Aku Kaya The Movie (2003)"  group-title="Filem Melayu",Aku Kaya The Movie (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/423.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Active Shooter (2020)"  group-title="Drama",Active Shooter (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7268.mp4
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="actionaction"  group-title="BETA TEST CHANNEL",actionaction
+http://iptv.tvmalaysia.cc:80/penang172/penang172/9006
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="ABC Australia"  group-title="LIVE | ASTRO",ABC Australia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6692
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="Abang Beduk (2015)"  group-title="Filem Melayu",Abang Beduk (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6992.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="A Night of Horror: Nightmare Radio (2020)"  group-title="Horror",A Night of Horror: Nightmare Radio (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6665.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="A Deadly Place (2020)"  group-title="Thriller",A Deadly Place (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7274.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="A Babysitter's Guide to Monster Hunting (2020)"  group-title="Adventure",A Babysitter's Guide to Monster Hunting (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6664.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="7 Perhentian (2004)"  group-title="Filem Melayu",7 Perhentian (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6988.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="3 Idiots (2009)"  group-title="Bollywood",3 Idiots (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/297.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="18 Puasa Di Kampung Pisang"  group-title="Filem Melayu",18 Puasa Di Kampung Pisang
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7334.mkv
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="17 Puasa (2019)"  group-title="Filem Melayu",17 Puasa (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6991.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="16 Puasa (2017)"  group-title="Filem Melayu",16 Puasa (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6990.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="15 Puasa (2004)"  group-title="Filem Melayu",15 Puasa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6989.mp4
+
+#EXTINF:-1, tvg-id="avi" tvg-logo="Logo N/A" tvg-name="10 Tips Tipu Bini (2021)"  group-title="Filem Melayu",10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7308.mkv
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="====== TSN ======"  group-title="LIVE | SPORTS",====== TSN ======
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8969
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="====== EURO 2020 ======"  group-title="LIVE | SPORTS",====== EURO 2020 ======
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8885
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="=== SKY SPORTS ==="  group-title="LIVE | SPORTS",=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7217
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="=== DSTV Supersport ==="  group-title="LIVE | SPORTS",=== DSTV Supersport ===
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7215
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="=== BT SPORT ==="  group-title="LIVE | SPORTS",=== BT SPORT ===
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7218
+
+#EXTINF:-1, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="=== ASTRO SPORTS ==="  group-title="LIVE | SPORTS",=== ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7214
